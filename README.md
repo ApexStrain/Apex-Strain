@@ -1,19 +1,25 @@
-# Apex-Strain
-# 💫 About Me:
-🚀 About Me<br><br>Hey there! I'm Aditya, a passionate self-taught Web Developer & Data Science Enthusiast currently learning Frontend Development and Python for Data Science. <br><br>🔥 What I’m Working On:<br><br>Frontend Development (HTML, CSS, JavaScript)<br><br>Building projects to sharpen my skills and showcase them here<br><br>Learning Python for Web Development & Data Science<br><br>Exploring freelancing opportunities to gain experience<br><br><br>🎯 My Goals:<br><br>Become a Full-Stack Developer & AI Engineer<br><br>Build real-world projects and contribute to open-source<br><br>Land internships and jobs early in my career<br><br>Help AI grow and evolve<br><br><br>🛠️ Tech Stack:<br><br>Frontend: HTML, CSS (Learning JavaScript)<br><br>Programming: Python (for Web & Data Science)<br><br>Tools: Git, GitHub<br><br><br>📌 Let's Connect:<br><br>GitHub: https://github.com/ApexStrain<br>LinkedIn: https://www.linkedin.com/in/aditya-biz<br><br>💡 Learning every day, one commit at a time! 🚀<br><br>
+<h1 align="center">Hi 👋, I'm Apex Strain</h1>
+<h3 align="center">A passionate frontend developer and data scientist enthusiast from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=apexstrain&label=Profile%20views&color=0e75b6&style=flat" alt="apexstrain" /> </p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/isadityaa?igsh=NmVsajE5anNtejJ6) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/aditya-biz) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/https://codepen.io/Aditya-Tiwari-the-selector) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tiwariadityasga3406@gmail.com) 
+- 🔭 I’m currently working on **Frontend-Projects from roadmap.sh**
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Apex Strain&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Apex Strain&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Apex Strain&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+- 🌱 I’m currently learning **HTML5,CSS3, Javascript**
 
----
-[![](https://visitcount.itsvg.in/api?id=Apex Strain&icon=0&color=0)](https://visitcount.itsvg.in)
+- 📫 How to reach me **tiwariadityasga3406@gmail.com**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/aditya-biz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aditya-biz" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/isadityaa?igsh=nmvsaje5anntejj6" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/isadityaa?igsh=nmvsaje5anntejj6" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=apexstrain&show_icons=true&locale=en&layout=compact" alt="apexstrain" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=apexstrain&show_icons=true&locale=en" alt="apexstrain" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=apexstrain&" alt="apexstrain" /></p>
